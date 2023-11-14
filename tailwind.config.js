@@ -85,11 +85,11 @@ module.exports = {
             ],
         },
         colors: {
-            // * transparent color
             transparent: "transparent",
-            // * black color
+            white: "#ffffff",
             black: "#000000",
-            // * brand color
+
+            // * brand
             brand: {
                 100: "#EBEBFF",
                 200: "#CECEEE",
@@ -101,7 +101,7 @@ module.exports = {
                 800: "#141468",
                 900: "#0E0E45",
             },
-            // * value color
+            // * value
             value: {
                 100: "#EBEBFF",
                 200: "#D6D6FF",
